@@ -1,0 +1,10 @@
+{
+	"name": "Dünya Dönüyor",
+	"short_name": "Dünya Dönüyor",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
